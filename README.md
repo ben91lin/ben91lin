@@ -1,6 +1,6 @@
 Hello! I'm Ben.\
-Interested in Web and Machine Learning.\
-Learning angular and cucumber framework now.
+Interesting in Web and Machine Learning.\
+It's HTTP response code 418 now.
 
 E-mail: ben91lin@gmail.com
 
